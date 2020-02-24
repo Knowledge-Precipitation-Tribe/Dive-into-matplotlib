@@ -1,2 +1,2 @@
-# matplotlib-practice
-matplotlib-practice
+# Dive-into-matplotlib
+Dive-into-matplotlib
